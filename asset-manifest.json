@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ninjacare/admin/static/css/main.8d5f4ba3.css",
-    "main.js": "/ninjacare/admin/static/js/main.8e072c4d.js",
-    "static/js/974.107aab11.chunk.js": "/ninjacare/admin/static/js/974.107aab11.chunk.js",
-    "static/js/94.29eef3fe.chunk.js": "/ninjacare/admin/static/js/94.29eef3fe.chunk.js",
+    "main.js": "/ninjacare/admin/static/js/main.d9a36662.js",
+    "static/js/40.eeeb1fb2.chunk.js": "/ninjacare/admin/static/js/40.eeeb1fb2.chunk.js",
+    "static/js/335.0a298b5c.chunk.js": "/ninjacare/admin/static/js/335.0a298b5c.chunk.js",
     "static/js/787.3ce4cc4d.chunk.js": "/ninjacare/admin/static/js/787.3ce4cc4d.chunk.js",
-    "static/js/372.2b4ed391.chunk.js": "/ninjacare/admin/static/js/372.2b4ed391.chunk.js",
-    "static/js/183.345be149.chunk.js": "/ninjacare/admin/static/js/183.345be149.chunk.js",
+    "static/js/688.c9725076.chunk.js": "/ninjacare/admin/static/js/688.c9725076.chunk.js",
+    "static/js/921.cc8c6080.chunk.js": "/ninjacare/admin/static/js/921.cc8c6080.chunk.js",
     "index.html": "/ninjacare/admin/index.html",
     "main.8d5f4ba3.css.map": "/ninjacare/admin/static/css/main.8d5f4ba3.css.map",
-    "main.8e072c4d.js.map": "/ninjacare/admin/static/js/main.8e072c4d.js.map",
-    "974.107aab11.chunk.js.map": "/ninjacare/admin/static/js/974.107aab11.chunk.js.map",
-    "94.29eef3fe.chunk.js.map": "/ninjacare/admin/static/js/94.29eef3fe.chunk.js.map",
+    "main.d9a36662.js.map": "/ninjacare/admin/static/js/main.d9a36662.js.map",
+    "40.eeeb1fb2.chunk.js.map": "/ninjacare/admin/static/js/40.eeeb1fb2.chunk.js.map",
+    "335.0a298b5c.chunk.js.map": "/ninjacare/admin/static/js/335.0a298b5c.chunk.js.map",
     "787.3ce4cc4d.chunk.js.map": "/ninjacare/admin/static/js/787.3ce4cc4d.chunk.js.map",
-    "372.2b4ed391.chunk.js.map": "/ninjacare/admin/static/js/372.2b4ed391.chunk.js.map",
-    "183.345be149.chunk.js.map": "/ninjacare/admin/static/js/183.345be149.chunk.js.map"
+    "688.c9725076.chunk.js.map": "/ninjacare/admin/static/js/688.c9725076.chunk.js.map",
+    "921.cc8c6080.chunk.js.map": "/ninjacare/admin/static/js/921.cc8c6080.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8d5f4ba3.css",
-    "static/js/main.8e072c4d.js"
+    "static/js/main.d9a36662.js"
   ]
 }
